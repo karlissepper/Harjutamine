@@ -2,3 +2,6 @@ Github on versioonihaldus tarkvara.
 Githubi kasutavad näiteks tarkvaraarendus tiimid.
 Mina saan githubi kasutada kooli tunnis Skriptimisvahendid.
 Saan kasutada oma projektide testimiseks.
+Github asutati 8. veebruar, 2008.
+Asutajad olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett.
+Kasutama sai hakata 10. aprill, 2008.
