@@ -1,2 +1,4 @@
 Github on versioonihaldus tarkvara.
 Githubi kasutavad näiteks tarkvaraarendus tiimid.
+Mina saan githubi kasutada kooli tunnis Skriptimisvahendid.
+Saan kasutada oma projektide testimiseks.
